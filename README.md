@@ -3,7 +3,7 @@
 # AWS Secrets Manager Module
 
 
-```c++
+```Dockerfile
 module "secrets-manager-1" {
 
   source = "lgallard/secrets-manager/aws"

@@ -3,7 +3,7 @@
 # AWS Secrets Manager Module
 
 
-```java
+```ruby
 module "secrets-manager-1" {
 
   source = "lgallard/secrets-manager/aws"
